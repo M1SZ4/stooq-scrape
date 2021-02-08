@@ -1,0 +1,1 @@
+Simple script to scrape data about WIG20 stocks from stooq, and save it to database.
